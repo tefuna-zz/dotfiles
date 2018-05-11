@@ -1,0 +1,19 @@
+{
+    "camelcase" : true,
+    "curly" : true,
+    "eqeqeq" : true,
+    "indent" : 2,
+    "latedef" : true,
+    "noempty" : true,
+    "nonew" : true,
+    "undef" : true,
+    "unused" : true,
+    "strict" : true,
+    "maxdepth" : 10,
+    "maxparams" : 5,
+    "maxlen" : 120,
+    "trailing" : true,
+    "browser" : true,
+    "devel" : false,
+    "jquery" : true
+}
